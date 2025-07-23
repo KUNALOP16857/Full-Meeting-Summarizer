@@ -2,7 +2,7 @@
 
 Welcome to the AI Meeting Summarizer – a smart tool that turns your spoken meetings into written summaries using AI. It's built using React, Supabase, and OpenAI/Gemini, and it's designed to help teams and individuals save time by summarizing conversations in real-time.
 
-🔗 **Live Project:** [Click to Try](https://full-meeting-summarizer.vercel.app)
+🔗 **Live Project:** [Click to Try](https://ai-meeting-summarizer-delta.vercel.app)
 
 ---
 
